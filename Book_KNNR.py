@@ -1,6 +1,6 @@
 #%%
 import numpy as np
-from Book_IrisTest import X_test, X_train
+from Classifiers.Book_IrisTest import X_test, X_train
 from sklearn.neighbors import KNeighborsRegressor
 from sklearn.model_selection import train_test_split
 import mglearn
