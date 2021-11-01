@@ -16,6 +16,4 @@ def find_primes_optimized_memory(f_num):
     
 f = int(input('Введите конечное число: '))
 res = find_primes_optimized_memory(f)
-
 print(res)
-
